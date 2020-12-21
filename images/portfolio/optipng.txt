@@ -1,0 +1,1 @@
+optipng -o5 -strip all -dir ../masonry *.png
